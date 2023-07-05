@@ -1,0 +1,56 @@
+[
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/Acer/mlOZPkSIJKWYcY8y5AikUaqPEypmNedI1UUg4Q-250x250.jpg",
+    "name": "Acer SA100 240GB SATA lll SSD 3D NAND",
+    "price": "1,350 EGP",
+    "Brand": "Asus"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/Acer/mlOZPkSIJKWYcY8y5AikUaqPEypmNedI1UUg4Q-250x250.jpg",
+    "name": "Acer SA100 480GB SATA lll SSD 3D NAND",
+    "price": "9,500 EGP",
+    "Brand": "HP"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/amd/Hv8NxDBe6shlTpOujVIkyo1LcM33-250x250.png",
+    "name": "AMD Ryzen 5 4500 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler Tray",
+    "price": "900 EGP",
+    "Brand": "Dell"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/amd/CWy7ayJ2fmzdba7FVhL5FAGSJcebrq3FcwTdrbJ-250x250w.jpg",
+    "name": "AMD Ryzen 5 5500 - Ryzen 5 5000 Series 6-Core Socket AM4 65W Desktop Processor",
+    "price": "1,100 EGP",
+    "Brand": "Lenovo"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/Antec/UgoZpBvaA6p68MPFomuyPacd4Gt2SnGV1DduyF0oI-250x250.jpg",
+    "name": "Antec A400i Neon RGB CPU Cooler",
+    "price": "4,400 EGP",
+    "Brand": "Dell"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/Asus/gdoyR94SIhf7sD0iYvG5uvmn7m-250x250.png",
+    "name": "ASUS TUF Gaming RTX 3070 Ti OC V2 Graphics Card PCIe 4.0, 8GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Military-grade Certification, GPU Tweak III",
+    "price": "1,550 EGP",
+    "Brand": "Dell"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/Asus/nK5OZ0NVqvyTYG7xG8RiaZaj6TsVQpVdCMb1imf5KGhubfuN-250x250w.jpg",
+    "name": "ASUS TUF Gaming Z790-Plus WiFi D4 LGA 1700 (Intel 12th&13th Gen) ATX Gaming Motherboard",
+    "price": "6,950 EGP",
+    "Brand": "Dell"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/Corsair/DBxelrGSF0okCqRSJVvGGd336OVOTPtp-250x250.png",
+    "name": "CORSAIR DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 DRAM 5200MHz C40 Memory Kit \u2014 Black",
+    "price": "2,450 EGP",
+    "Brand": "HP"
+  },
+  {
+    "img": "https://elbadrgroupeg.store/image/cache/catalog/22-236-339-09-250x250w.jpg",
+    "name": "Western Digital (WD) Caviar BLUE WD10EZAZ 1TB SATA 6Gb/s 7200 RPM 64MB Cache HDD",
+    "price": "59,000 EGP",
+    "Brand": "XPG"
+  }
+]
